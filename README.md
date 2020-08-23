@@ -51,7 +51,7 @@ the directory and type:
 propane
 ```
 
-Propane will prompt you will couple of questions which will setup
+Propane will prompt you with couple of questions which will setup
 the basic file structure up for you, including:
 
 * git repository and .gitignore file
