@@ -1,3 +1,6 @@
 [submodule "resources/gitignore"]
 	path = resources/gitignore
 	url = https://github.com/github/gitignore.git
+[submodule "resources/pytomata"]
+	path = resources/pytomata
+	url = https://github.com/filipgodlewski/pytomata.git

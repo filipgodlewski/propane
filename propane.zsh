@@ -37,7 +37,7 @@ local project_tests_path="${project_location}/tests"
 
 eval "$(pyenv init -)" || exit 1
 eval "$(pyenv virtualenv-init -)" || exit 1
-source "$HOME/.config/zsh/functions/pyenv.zsh" || exit 1
+source "resources/pytomata/pytomata.zsh" || exit 1
 
 mkdir "${project_name}"
 
